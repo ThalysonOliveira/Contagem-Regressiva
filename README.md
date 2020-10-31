@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a id="sobre"></a>
 ## :bookmark: Sobre
 
-Contagem regressiva para o final do ano
+Contagem regressiva para o ano novo
