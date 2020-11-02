@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img alt="Contagem" src="https://i.imgur.com/hjDAFZs.png" width="100%">
   <img alt="Contagem" src="https://i.imgur.com/Qurdg5T.png" width="100%">
 </p>
 
