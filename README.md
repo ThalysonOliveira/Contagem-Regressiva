@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img alt="Contagem" src="https://i.imgur.com/Qurdg5T.png" width="100%">
+  <img alt="Contagem" src="https://i.imgur.com/mJhUrHh.png" width="100%">
+  <img alt="Contagem" src="https://i.imgur.com/lbMJKSA.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
